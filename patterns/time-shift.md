@@ -12,7 +12,7 @@ TBD
 Schedule recurrent workloads based on location-based marginal carbon emissions (aka Electricity Carbon Intensity), to reduce  their carbon emissions
 
 ## Tags
-Cloud, Networking, Cloud Engineer, Small
+Cloud, Deployment, Compute, DevOps ; Cloud Engineer; Medium complexity 
 
 ## Problem
 The carbon emissions of a software system depends on the power consumed by that sotware, but also on the Carbon intensity of the Electricity it is powered on. For this reason, running energy-efficient software on Carbon intensive Electtricity grid, might be inefficient to reduce its global carbon emissions. 
