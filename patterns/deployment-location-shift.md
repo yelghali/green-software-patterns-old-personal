@@ -9,7 +9,7 @@ Yassine El Ghali (@yelghali)
 TBD
 
 ## Intent
-Reduce carbon emissions of workloads, by deploying them to Regions, or locations (Data Centers), where Electricity Carbon Intensity is low
+Reduce carbon emissions of workloads, by deploying them to Regions, or locations (Data Centers), where location-based marginal carbon emissions (aka Electricity Carbon Intensity), is low
 
 ## Tags
 Cloud, Deployment, Compute, DevOps ; for Cloud Engineers; Complexity might be Large
