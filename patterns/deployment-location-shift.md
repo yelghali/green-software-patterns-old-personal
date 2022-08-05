@@ -18,7 +18,7 @@ Cloud, Networking, Cloud Engineer, Small
 The carbon emissions of a software system depends on the power consumed by that sotware, but also on the Carbon intensity of the Electricity it is powered on. For this reason, running energy-efficient software on Carbon intensive Electtricity grid, might be inefficient to reduce its global carbon emissions. 
 
 ## Solution
-Enable Carbon Aware Region / Location deployments for workloads
+Enable Carbon Aware, Region / Location shfting for workloads
 
 ## SCI Impact
 `SCI = (E * I) + M per R`
