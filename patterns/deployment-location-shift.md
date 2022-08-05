@@ -1,4 +1,4 @@
-# Reduce carbon emissions of workloads, by deploying them to Regions, or locations, where Electricity Carbon Intensity is low
+# Reduce carbon emissions of workloads, by deploying them to Regions or locations, where Electricity Carbon Intensity is low
 ## Version
 1.0
 
