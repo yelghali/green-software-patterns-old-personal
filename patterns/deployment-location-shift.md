@@ -12,7 +12,7 @@ TBD
 Reduce carbon emissions of workloads, by deploying them to Regions, or locations (Data Centers), where Electricity Carbon Intensity is low
 
 ## Tags
-Cloud, Networking, Cloud Engineer, Small
+Cloud, Deployment, Compute, DevOps ; for Cloud Engineers; Complexity might be Large
 
 ## Problem
 The carbon emissions of a software system depends on the power consumed by that sotware, but also on the Carbon intensity of the Electricity it is powered on. For this reason, running energy-efficient software on Carbon intensive Electtricity grid, might be inefficient to reduce its global carbon emissions. 
