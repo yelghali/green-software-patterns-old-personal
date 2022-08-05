@@ -27,6 +27,10 @@ Regarding the SCI equation. Reducing the distance will impact:
 
 - `I`: The goal is to reduce SCI by reducing (I), and in practice, deploy workloads to Regions  / Locations, where (I) is low.
 
+to capture the impact of Region shifting, the following image shows variation of Electricity Carbon Intensity for several countries, from one the Electricity providers, [ElectricityMap](https://app.electricitymaps.com/map).
+
+![zez](./media/region-shift.png)
+
 
 ## Assumptions
 * the workloads can be scheduled to several Regions or Locations.
