@@ -15,7 +15,7 @@ Schedule recurrent workloads based on location-based marginal carbon emissions (
 Cloud, Networking, Cloud Engineer, Small
 
 ## Problem
-the carbon emissions of a software system depends on the power consumed by that sotware, but also on the Carbon intensity of the Electricity it is powered on. For this reason, running energy-efficient software on Carbon intensive Electtricity grid, might be inefficient to reduce its global carbon emissions. 
+The carbon emissions of a software system depends on the power consumed by that sotware, but also on the Carbon intensity of the Electricity it is powered on. For this reason, running energy-efficient software on Carbon intensive Electtricity grid, might be inefficient to reduce its global carbon emissions. 
 
 ## Solution
 Enable Carbon Aware time scheduling, for recurrent Jobs suchs as Crons, ML Training Jobs, Batchs, etc.
