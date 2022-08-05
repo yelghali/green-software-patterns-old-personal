@@ -35,4 +35,4 @@ Regarding the SCI equation. Reducing the distance will impact:
 
 ## Pros & Cons
 - **PRO**: Applications / workloads can benefit from Location shifting at the Platform Operating level, without requiring change to their code.
-- **CON**: sovereignty & residency constraints, as well as technical difficulties (network communication, data travel). 
+- **CON**: sovereignty & residency constraints, as well as technical difficulties (network communication, data travel..). 
