@@ -32,5 +32,5 @@ Regarding the SCI equation. Reducing the distance will impact:
 the recurrent Job to be time shifted, has a flexible time window for scheduling, which allows variation on time to reduce (I). 
 
 ## Pros & Cons
-- **PRO**: Applications / workloads can benefit from time shifting at the Platform Operating level, without require change to their code.
+- **PRO**: Applications / workloads can benefit from time shifting at the Platform Operating level, without requiring change to their code.
 - **CON**: scheduling constraints for batchs or Crons, with several dependencies. 
