@@ -27,6 +27,12 @@ Regarding the SCI equation. Reducing the distance will impact:
 
 - `I`: The goal is to reduce SCI by reducing (I), and in practice, schedule recurrent Jobs when I is low.
 
+to capture the impact of time shifting, the following image shows variation of Electricity Carbon Intensity during a day, from one the Electricity providers, [ElectricityMap](https://app.electricitymaps.com/map).
+
+![zez](./media/time-shift.png)
+
+
+
 
 ## Assumptions
 the recurrent Job to be time shifted, has a flexible time window for scheduling, which allows variation on time to reduce (I). 
