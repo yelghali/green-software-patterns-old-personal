@@ -25,7 +25,7 @@ Enable Carbon Aware time scheduling, for recurrent Jobs suchs as Crons, ML Train
 
 Regarding the SCI equation. Reducing the distance will impact:
 
-- `I`: The goal is to reduce SCI by reducing I, and in practice, schedule recurrent Jobs when I is low.
+- `I`: The goal is to reduce SCI by reducing (I), and in practice, schedule recurrent Jobs when I is low.
 
 
 ## Assumptions
