@@ -1,4 +1,4 @@
-# Reducing carbon emissions of recurrent Tasks/Jobs, by scheduling them when Electricity Carbon Intensity is low
+# Reduce carbon emissions of recurrent Tasks/Jobs, by scheduling them when Electricity Carbon Intensity is low
 ## Version
 1.0
 
